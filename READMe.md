@@ -1,2 +1,2 @@
 # Demo Git App 
-This is for testing out git
+This is for testing out git.
